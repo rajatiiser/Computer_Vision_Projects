@@ -5,7 +5,7 @@ This repository contains three academic mini-projects covering classical image p
 ## Projects
 
 ### 📌 Basic Image Processing Techniques
-➡️ [Open Project](./Basic_Image_Processing_Techniques)
+➡️ [Open Project](Basic%20Image%20Processing%20%28Techniques%29)
 
 Topics:
 - Image enhancement
