@@ -42,14 +42,14 @@ Topics:
 Computer_Vision_Projects/
 │
 ├── Basic_Image_Processing_Techniques/
-│   ├── notebook.ipynb
+│   ├── Basic_Image_Processing_Techniques.ipynb
 │   └── README.md
 │
 ├── Advanced_Image_Processing_Techniques/
-│   ├── notebook.ipynb
+│   ├── Advanced_Image_Processing_Techniques.ipynb
 │   └── README.md
 │
 └── Deep_Learning_for_Computer_Vision/
-    ├── notebook.ipynb
+    ├── Deep_Learning_for_Computer_Vision.ipynb
     └── README.md
 ```
