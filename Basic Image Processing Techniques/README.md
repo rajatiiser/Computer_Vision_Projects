@@ -53,4 +53,5 @@ The project demonstrates how classical image processing techniques can be used f
 ## Author
 
 Rajat Kumar
-Master Data Science and AI  Program
+Professional  Master in Data Science and AI <br>
+Master in  Mathematics
