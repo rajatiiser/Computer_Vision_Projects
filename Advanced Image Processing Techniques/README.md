@@ -90,5 +90,5 @@ jupyter notebook Advanced_Image_Processing.ipynb
 ## Author
 
 Rajat Kumar
-Professional  Master in Data Science and AI
+Professional  Master in Data Science and AI <br>
 Master in  Mathematics
