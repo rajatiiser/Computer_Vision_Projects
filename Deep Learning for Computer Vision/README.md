@@ -109,3 +109,9 @@ and execute all cells.
 ## Conclusion
 
 The comparison between YOLOv8n and YOLOv8s demonstrates that larger YOLO architectures can provide improved detection performance and identify additional objects. The project highlights the effectiveness of pretrained deep learning models for object detection tasks.
+
+## Author
+
+Rajat Kumar <br>
+Professional  Master in Data Science and AI <br>
+Master in  Mathematics
