@@ -16,7 +16,7 @@ Topics:
 ---
 
 ### 📌 Advanced Image Processing Techniques
-➡️ [Open Project](./Advanced_Image_Processing_Techniques)
+➡️ [Open Project](Advanced%20Image%20Processing%20Techniques)
 
 Topics:
 - Object Detection
@@ -26,7 +26,7 @@ Topics:
 ---
 
 ### 📌 Deep Learning for Computer Vision
-➡️ [Open Project](./Deep_Learning_for_Computer_Vision)
+➡️ [Open Project](Deep%20Learning%20for%20Computer%20Vision)
 
 Topics:
 - YOLOv8n
